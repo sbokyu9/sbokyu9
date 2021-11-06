@@ -20,3 +20,5 @@ My name is Bryan, 2nd year computer science student at UBC
 I like reading books!
 
 I recently finished Project Hail Mary by Andy Weir. It was enjoyable and I recommend it :)
+
+Working out is also a hobby of mine
